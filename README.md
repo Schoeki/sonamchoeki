@@ -10,8 +10,8 @@ I am a passionate Information Technology student currently diving deep  and want
 📧 **How to reach me**: sonam.choeki.8@gmail.com
 
 ### My Projects:
-- [Penetration Testing Tools and Techniques](#) (Upcoming Project)
-- [FlexiToolkit](#) (on the way )
+- [Automated Vulnerability Scanner](https://github.com/Schoeki/Automated-vulnerability-Scanner) (Upcoming Project)
+- [FlexiToolkit](https://github.com/Schoeki/FlexiToolkit) (on the way )
 
 ### Connect with me:
 - [LinkedIn](https://www.linkedin.com)
